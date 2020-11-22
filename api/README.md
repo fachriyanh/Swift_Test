@@ -24,3 +24,5 @@ POST api/order
 #   "amount":"45"
 # }
 ```
+
+![order](https://user-images.githubusercontent.com/43384324/99898143-e5325480-2cd1-11eb-9a18-07e63d76ce2a.PNG)
